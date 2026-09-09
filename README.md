@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nataliya! </h1>
 <b> I am currently learning Active Directory environment (building it from scratch in Azure), network and cybersecurity for IT professionals </b>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Active Directory Home labs:</h2>
 
 - <b>Virtualized AD domain in Azure</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -10,7 +10,8 @@
 - <b>Active Directory: Users, Organizational Units, Groups. Troubleshooting</b>
   
 - <b>Join PC to Active Directory</b>
- 
+
+<h2>👨‍💻 Certifications</h2>
 
 <h2> How to reach me: </h2>
 
