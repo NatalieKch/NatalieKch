@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Nataliya! </h1>
+<b> I am currently learning Active Directory environment (building it from scratch in Azure), network and cybersecurity for IT professionals </b>
 
-<!--
-**NatalieKch/NatalieKch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Virtualized AD domain in Azure</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Domain Controller in Windows Server</b>
+  
+- <b>Active Directory: Users, Organizational Units, Groups. Troubleshooting</b>
+  
+- <b>Join PC to Active Directory</b>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> How to reach me: </h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/nataliyakch/
