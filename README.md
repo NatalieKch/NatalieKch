@@ -5,7 +5,7 @@
 
 - [Windows Server VM in Azure](https://github.com/NatalieKch/WindowsServerVM/tree/main)
   
-- [Domain Controller in Windows Server] (https://github.com/NatalieKch/DomainController)</b>
+- [Domain Controller in Windows Server](https://github.com/NatalieKch/DomainController)
   
 - <b>Active Directory: Users, Organizational Units, Groups. Troubleshooting</b>
   
