@@ -4,7 +4,7 @@
 <h2>👨‍💻 Active Directory Home labs:</h2>
 
 - <b>Windows Server VM in Azure</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Windows Server VM in Azure](https://github.com/NatalieKch/WindowsServerVM/tree/main)
 - <b>Domain Controller in Windows Server</b>
   
 - <b>Active Directory: Users, Organizational Units, Groups. Troubleshooting</b>
