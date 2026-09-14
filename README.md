@@ -12,4 +12,6 @@
 - <b>Join PC to Active Directory</b>
 
 <h2>👨‍💻 Certifications</h2>
+- <b>Comptia A+<br/>
+- <b>Comptia Network+</b>
 
