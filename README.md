@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Active Directory Home labs:</h2>
 
-- <b>Windows Server VM in Azure</b>
-  - [Windows Server VM in Azure](https://github.com/NatalieKch/WindowsServerVM/tree/main)
+- [Windows Server VM in Azure](https://github.com/NatalieKch/WindowsServerVM/tree/main)
+  
 - <b>Domain Controller in Windows Server</b>
   
 - <b>Active Directory: Users, Organizational Units, Groups. Troubleshooting</b>
