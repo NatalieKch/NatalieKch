@@ -7,7 +7,7 @@
   
 - [Domain Controller in Windows Server](https://github.com/NatalieKch/DomainController)
   
-- <b>Active Directory: Users, Organizational Units, Groups. Troubleshooting</b>
+- [Active Directory: Users, Organizational Units, Groups. Troubleshooting](https://github.com/NatalieKch/ActiveDirectory)
   
 - <b>Join PC to Active Directory</b>
 
